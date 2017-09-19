@@ -6,4 +6,5 @@ o = "o"
 w = "w"
 r = "r"
 d = "d"
- print ( h + e + l*2 + o,w + o + r + l + d )
+
+print ( h + e + l*2 + o + " " +w + o + r + l + d )
